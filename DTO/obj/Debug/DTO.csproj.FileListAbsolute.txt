@@ -1,0 +1,9 @@
+E:\dephong\doan\SieuThi\app\QuanLySieuThi\DTO\bin\Debug\DTO.dll
+E:\dephong\doan\SieuThi\app\QuanLySieuThi\DTO\bin\Debug\DTO.pdb
+E:\dephong\doan\SieuThi\app\QuanLySieuThi\DTO\obj\Debug\DTO.dll
+E:\dephong\doan\SieuThi\app\QuanLySieuThi\DTO\obj\Debug\DTO.pdb
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DTO\bin\Debug\DTO.dll
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DTO\bin\Debug\DTO.pdb
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DTO\obj\Debug\DTO.dll
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,16 @@
+E:\dephong\doan\SieuThi\app\QuanLySieuThi\DAL\bin\Debug\DAL.dll
+E:\dephong\doan\SieuThi\app\QuanLySieuThi\DAL\bin\Debug\DAL.pdb
+E:\dephong\doan\SieuThi\app\QuanLySieuThi\DAL\bin\Debug\DTO.dll
+E:\dephong\doan\SieuThi\app\QuanLySieuThi\DAL\bin\Debug\DTO.pdb
+E:\dephong\doan\SieuThi\app\QuanLySieuThi\DAL\obj\Debug\DAL.dll
+E:\dephong\doan\SieuThi\app\QuanLySieuThi\DAL\obj\Debug\DAL.pdb
+E:\dephong\doan\SieuThi\app\QuanLySieuThi\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DAL\bin\Debug\DAL.dll
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DAL\bin\Debug\DAL.pdb
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DAL\bin\Debug\DTO.dll
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DAL\bin\Debug\DTO.pdb
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DAL\obj\Debug\DAL.dll
+C:\Users\ABC\Desktop\btlC#\SieuThi\QuanLySieuThi\DAL\obj\Debug\DAL.pdb
